@@ -1,0 +1,14 @@
+{
+	"category" : "jg-squeak-aoc16",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Aoc16Day1",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
