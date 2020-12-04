@@ -1,0 +1,14 @@
+{
+	"category" : "jg-squeak-aoc20",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Day2Problem1Validator",
+	"pools" : [
+		 ],
+	"super" : "Day2Validator",
+	"type" : "normal" }

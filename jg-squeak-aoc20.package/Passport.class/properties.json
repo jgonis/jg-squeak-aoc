@@ -1,0 +1,22 @@
+{
+	"category" : "jg-squeak-aoc20",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"birthYear",
+		"issueYear",
+		"expirationYear",
+		"height",
+		"hairColor",
+		"eyeColor",
+		"passportId",
+		"countryId",
+		"fields" ],
+	"name" : "Passport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "jg-squeak-aoc20-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PassportTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
