@@ -1,4 +1,5 @@
 OrderedDictionary {
 	'jg-squeak-aoc16.package' : #SquotCypressCodeSerializer,
-	'jg-squeak-aoc20.package' : #SquotCypressCodeSerializer
+	'jg-squeak-aoc20.package' : #SquotCypressCodeSerializer,
+	'jg-squeak-aocutils.package' : #SquotCypressCodeSerializer
 }
