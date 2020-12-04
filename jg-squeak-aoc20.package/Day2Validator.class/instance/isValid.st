@@ -1,0 +1,3 @@
+initialization
+isValid
+self subclassResponsibility.

@@ -1,0 +1,17 @@
+{
+	"category" : "jg-squeak-aoc20",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"password",
+		"requiredChar",
+		"firstNum",
+		"secondNum" ],
+	"name" : "Day2Validator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
