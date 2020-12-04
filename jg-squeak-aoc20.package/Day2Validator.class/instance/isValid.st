@@ -1,3 +1,0 @@
-initialization
-isValid
-self subclassResponsibility.
