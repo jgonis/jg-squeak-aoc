@@ -1,0 +1,14 @@
+{
+	"category" : "jg-squeak-aoc20-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Day5Tests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
