@@ -1,4 +1,3 @@
 accessing
 height
-"	^ height"
-	^ fields at: 'hgt'.
+	^ fields at: 'hgt'

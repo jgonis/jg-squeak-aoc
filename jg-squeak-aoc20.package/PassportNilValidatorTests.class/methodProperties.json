@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jmg 12/8/2020 00:50",
+		"testInvalidPassports" : "jmg 12/8/2020 00:53",
+		"testValidPassports" : "jmg 12/8/2020 00:53" } }

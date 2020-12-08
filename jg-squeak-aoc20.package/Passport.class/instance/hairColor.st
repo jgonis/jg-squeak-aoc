@@ -1,4 +1,3 @@
 accessing
 hairColor
-"	^ hairColor"
-	^ fields at: 'hcl'.
+	^ fields at: 'hcl'

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "jmg 12/8/2020 00:00",
+		"validateBirthYear:" : "jmg 12/7/2020 23:28",
+		"validateExpirationYear:" : "jmg 12/7/2020 23:30",
+		"validateEyeColor:" : "jmg 12/7/2020 23:46",
+		"validateHairColor:" : "jmg 12/8/2020 00:11",
+		"validateHeight:" : "jmg 12/7/2020 23:36",
+		"validateIssueYear:" : "jmg 12/7/2020 23:31",
+		"validateNumber:between:and:" : "jmg 12/7/2020 23:29",
+		"validatePassport:" : "jmg 12/8/2020 01:03",
+		"validatePassportId:" : "jmg 12/7/2020 15:50",
+		"validateYear:between:and:" : "jmg 12/7/2020 23:25" } }

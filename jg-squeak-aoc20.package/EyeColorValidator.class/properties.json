@@ -1,0 +1,14 @@
+{
+	"category" : "jg-squeak-aoc20",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"validColors" ],
+	"name" : "EyeColorValidator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

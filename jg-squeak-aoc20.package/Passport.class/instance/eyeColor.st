@@ -1,4 +1,3 @@
 accessing
 eyeColor
-"	^ eyeColor"
-	^ fields at: 'ecl'.
+	^ fields at: 'ecl'

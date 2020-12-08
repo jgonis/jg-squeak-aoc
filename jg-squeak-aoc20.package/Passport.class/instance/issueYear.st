@@ -1,4 +1,3 @@
 accessing
 issueYear
-"	^ issueYear"
-	^ fields at: 'iyr'.
+	^ fields at: 'iyr'

@@ -1,0 +1,15 @@
+{
+	"category" : "jg-squeak-aoc20",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jmg 12/7/2020 23:58",
+	"instvars" : [
+		"eyeColors",
+		"hairColorChars" ],
+	"name" : "PassportFieldValidator",
+	"pools" : [
+		 ],
+	"super" : "PassportValidator",
+	"type" : "normal" }

@@ -1,4 +1,3 @@
 accessing
 birthYear
-"	^ birthYear"
-	^ fields at: 'byr'.
+	^ fields at: 'byr'

@@ -1,4 +1,3 @@
 accessing
 expirationYear
-"	^ expirationYear"
-	^ fields at: 'eyr'.
+	^ fields at: 'eyr'

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jmg 12/8/2020 00:34",
+		"testInvalidBirthyear" : "jmg 12/8/2020 00:35",
+		"testInvalidExpirationYear" : "jmg 12/8/2020 00:35",
+		"testInvalidEyeColor" : "jmg 12/8/2020 00:36",
+		"testInvalidHairColor" : "jmg 12/8/2020 00:36",
+		"testInvalidHeight" : "jmg 12/8/2020 00:36",
+		"testInvalidIssueYear" : "jmg 12/8/2020 00:36",
+		"testInvalidPassportId" : "jmg 12/8/2020 00:36",
+		"testValidBirthYear" : "jmg 12/8/2020 00:36",
+		"testValidExpirationYear" : "jmg 12/8/2020 00:37",
+		"testValidEyeColor" : "jmg 12/8/2020 00:37",
+		"testValidHairColor" : "jmg 12/8/2020 00:37",
+		"testValidHeight" : "jmg 12/8/2020 00:37",
+		"testValidIssueYear" : "jmg 12/8/2020 00:37",
+		"testValidPassportId" : "jmg 12/8/2020 00:37",
+		"testValidateInvalidBirthyear" : "jmg 12/8/2020 00:37" } }

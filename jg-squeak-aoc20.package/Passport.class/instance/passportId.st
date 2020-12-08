@@ -1,4 +1,3 @@
 accessing
 passportId
-"	^ passportId"
-	^ fields at: 'pid'.
+	^ fields at: 'pid'

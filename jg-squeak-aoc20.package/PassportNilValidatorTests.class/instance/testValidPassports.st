@@ -1,0 +1,13 @@
+tests
+testValidPassports
+	| passports |
+	passports := passportParser getPassports: 'ecl:gry pid:860033327 eyr:2020 hcl:#fffffd
+byr:1937 iyr:2017 cid:147 hgt:183cm' lines.
+	self
+		assert: (testSubject validatePassport: passports first).
+	passports := passportParser getPassports: 'hcl:#ae17e1 iyr:2013
+eyr:2024
+ecl:brn pid:760753108 byr:1931
+hgt:179cm' lines.
+	self
+		assert: (testSubject validatePassport: passports first)

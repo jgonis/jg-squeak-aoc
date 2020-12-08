@@ -1,4 +1,3 @@
 accessing
 countryId
-"	^ countryId"
-	^ fields at: 'cid'.
+	^ fields at: 'cid'

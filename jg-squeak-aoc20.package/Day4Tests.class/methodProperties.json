@@ -2,4 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testSmallInputProblem1" : "jmg 12/4/2020 02:16" } }
+		"testLargeInputProblem1" : "jmg 12/8/2020 00:20",
+		"testLargeInputProblem2" : "jmg 12/8/2020 00:57",
+		"testSmallInputProblem1" : "jmg 12/8/2020 00:56",
+		"testSmallInvalidInputProblem2" : "jmg 12/8/2020 00:56",
+		"testSmallValidInputProblem2" : "jmg 12/8/2020 00:56" } }
