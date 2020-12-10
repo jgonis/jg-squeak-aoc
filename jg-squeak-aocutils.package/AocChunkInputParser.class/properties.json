@@ -1,0 +1,14 @@
+{
+	"category" : "jg-squeak-aocutils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AocChunkInputParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
